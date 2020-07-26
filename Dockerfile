@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/pha-example
+FROM gcr.io/google_containers/pha-example:latest
 
